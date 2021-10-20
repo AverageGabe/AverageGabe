@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AverageGabe
-- 👀 I’m interested in Rust and Python also math i guess
+- 👀 I’m interested in Rust, Anime and Python also math i guess
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on your mother
 - 📫 How to reach me: Don't reach me
