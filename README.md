@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AverageGabe
-- 👀 I’m interested in D, Anime and Python also math i guess
-- 🌱 I’m currently learning D
+- 👀 I’m interested in The D Programming Language, Anime and Python also math i guess
+- 🌱 I’m currently learning The D Programming Language
 - 💞️ I’m looking to collaborate on your mother
 - 📫 How to reach me: Don't reach me
 
